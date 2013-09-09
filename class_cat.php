@@ -20,11 +20,11 @@
               public function meow() {
                 return "Meow meow";
               } 
-              
-              $cat1 = new ("CodeCat");
-              
-              echo $cat1->meow();
           }
+          
+          $cat1 = new ("CodeCat");
+              
+          echo $cat1->meow();
         ?>
       </p>
     </body>
